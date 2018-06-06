@@ -21,7 +21,7 @@ namespace TheThirdAge
             
             ChangeSteelToIron();
 //            
-            ReplaceModernResources();
+            //ReplaceModernResources();
 
         }
 
