@@ -8,7 +8,7 @@ namespace TheThirdAge
     {
         public ModStuff(ModContentPack content) : base(content)
         {
-                HarmonyInstance harmony = HarmonyInstance.Create("rimworld.lotr.thirdageunlimited");
+                HarmonyInstance harmony = HarmonyInstance.Create("rimworld.lotr.thirdage");
 
                 harmony.Patch(AccessTools.Method(typeof(DefGenerator), "GenerateImpliedDefs_PreResolve"), null,
                 new HarmonyMethod(typeof(ModStuff), nameof(GenerateImpliedDefs_PreResolve)), null);
