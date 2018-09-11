@@ -15,7 +15,7 @@ namespace TheThirdAge
         static OnStartup()
         {
 
-	        HandleAncientShrines();
+	        //HandleAncientShrines();
 	        
             MoveRecipesToSmithy();
 

@@ -137,7 +137,7 @@
       <isResourceRock>true</isResourceRock>
       <mineableThing>LotR_Iron</mineableThing>
       <mineableYield>35</mineableYield>
-      <mineableScatterCommonality>1</mineableScatterCommonality>
+      <mineableScatterCommonality>0.08</mineableScatterCommonality>
       <mineableScatterLumpSizeRange>
         <min>30</min>
         <max>40</max>

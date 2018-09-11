@@ -11,7 +11,6 @@
     <pawnSingular>villager</pawnSingular>
     <pawnsPlural>villagers</pawnsPlural>
     <techLevel>Medieval</techLevel>
-    <backstoryCategories><li>Civil</li></backstoryCategories>
     <expandingIconTexture>World/WorldObjects/Expanding/Town</expandingIconTexture>
     <playerInitialSettlementNameMaker>NamerInitialSettlementColony</playerInitialSettlementNameMaker>
     <factionNameMaker>NamerFactionOutlander</factionNameMaker>
@@ -65,8 +64,13 @@
         <!-- Player starting things -->
         <li Class="ScenPart_StartingThing_Defined">
           <def>StartingThing_Defined</def>
+          <thingDef>Steel</thingDef>
+          <count>500</count>
+        </li>        
+		<li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
           <thingDef>LotR_Iron</thingDef>
-          <count>800</count>
+          <count>200</count>
         </li>
         <li Class="ScenPart_StartingThing_Defined">
           <def>StartingThing_Defined</def>
@@ -97,7 +101,7 @@
         <!-- Scatter some things near player start -->
         <li Class="ScenPart_ScatterThingsNearPlayerStart">
           <def>ScatterThingsNearPlayerStart</def>
-          <thingDef>LotR_Iron</thingDef>
+          <thingDef>Steel</thingDef>
           <count>450</count>
         </li>
         <li Class="ScenPart_ScatterThingsNearPlayerStart">
@@ -109,7 +113,7 @@
         <!-- Scatter some things anywhere -->
         <li Class="ScenPart_ScatterThingsAnywhere">
           <def>ScatterThingsAnywhere</def>
-          <thingDef>LotR_Iron</thingDef>
+          <thingDef>Steel</thingDef>
           <count>720</count>
         </li>
         
@@ -153,7 +157,7 @@
         <!-- Player starting things -->
         <li Class="ScenPart_StartingThing_Defined">
           <def>StartingThing_Defined</def>
-          <thingDef>LotR_Iron</thingDef>
+          <thingDef>Steel</thingDef>
           <count>800</count>
         </li>
         <li Class="ScenPart_StartingThing_Defined">
@@ -185,8 +189,14 @@
         <!-- Scatter some things near player start -->
         <li Class="ScenPart_ScatterThingsNearPlayerStart">
           <def>ScatterThingsNearPlayerStart</def>
+          <thingDef>Steel</thingDef>
+          <count>350</count>
+        </li>
+        <!-- Scatter some things near player start -->
+        <li Class="ScenPart_ScatterThingsNearPlayerStart">
+          <def>ScatterThingsNearPlayerStart</def>
           <thingDef>LotR_Iron</thingDef>
-          <count>450</count>
+          <count>200</count>
         </li>
         <li Class="ScenPart_ScatterThingsNearPlayerStart">
           <def>ScatterThingsNearPlayerStart</def>
