@@ -1,0 +1,12 @@
+   This is a silly version of a real mod called The Third Age.
+The Third Age is a mod that limits technology to the medieval period.
+That mod also adds items and rebalances how resources work in RimWorld.
+This mod is a duplicate of that mod, and it simply does not include the
+technology limits of the other mod.    
+    
+What's inside?
+This mod: does not remove modern items.
+" adds salted pots and pantries to manage food without refrigeration
+" adds a blacksmith forge to forge steel.
+" adds iron and mithril.
+" rebalances iron into the primary mineable resource, rather than steel.
