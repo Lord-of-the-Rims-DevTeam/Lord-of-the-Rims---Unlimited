@@ -1,3 +1,7 @@
+0.20.0.1 (12-14-2018)
+========================
+Adds simple backstory update by RodEsp to remove an error on startup
+
 0.20.0.0 (10-20-2018)
 ========================
 Updated for non early-access version of RimWorld.

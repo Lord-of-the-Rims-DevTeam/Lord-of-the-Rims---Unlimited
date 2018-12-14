@@ -3,7 +3,7 @@
   <name>Lord of the Rims - Unlimited</name>
   <author>erdelf and Jecrell</author>
   <targetVersion>1.0.2059</targetVersion>
-  <description>0.20.0.0 (10-20-2018)
+  <description>0.20.0.1 (12-14-2018)
 
    This is a silly version of a real mod called The Third Age.
 The Third Age is a mod that limits technology to the medieval period.
@@ -26,6 +26,10 @@ Maaxar, Shibby Says, TheJagermeister, Cory Bonifay, Kiya Nicoll, Matt Harris, Pa
 ========================
 Changelog
 ========================
+0.20.0.1 (12-14-2018)
+========================
+Adds simple backstory update by RodEsp to remove an error on startup
+
 0.20.0.0 (10-20-2018)
 ========================
 Updated for non early-access version of RimWorld.
