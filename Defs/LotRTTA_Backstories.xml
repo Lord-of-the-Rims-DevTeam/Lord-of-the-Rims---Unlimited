@@ -1700,6 +1700,8 @@
     <defName>LotRTTA_Escapee</defName>
     <title>Escaped criminal</title>
     <baseDescription>[PAWN_nameDef] denies involvement in the crimes that brought about [PAWN_possessive] imprisonment in the dungeons. [PAWN_pronoun] escaped by tunnelling beneath the fort using a soup spoon.</baseDescription>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
     <slot>Adulthood</slot>
     <workDisables>
       <li>Caring</li>
